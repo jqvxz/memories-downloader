@@ -3,6 +3,11 @@
 
 A simple python program that allows the user to download their snapchat memories to avoid paying for it or downloading them 1 by 1
 
+## How to get the .json
+- Visit [Snapchat](https://accounts.snapchat.com/v2/download-my-data)
+- Select "Export your Memories"
+- Select "Export JSON Files"
+- Download your data after requesting it
 
 ## Installation 
 Tested on "Python 3.13.1"
