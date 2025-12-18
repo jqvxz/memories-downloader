@@ -1,5 +1,5 @@
 
-## icmusic - Intro
+## memories-downloader - Intro
 
 A simple python program that allows the user to download their snapchat memories to avoid paying for it or downloading them 1 by 1
 
