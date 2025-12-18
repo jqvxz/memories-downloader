@@ -40,7 +40,9 @@ python main.py
 
 ## UI
 
--
+<img width="685" height="538" alt="image" src="https://github.com/user-attachments/assets/9e07d017-ca8a-433d-a6db-e8b86133a36a" />
+<img width="685" height="538" alt="image" src="https://github.com/user-attachments/assets/6b3cfaa3-b80e-4a28-af7f-f946107ccc3e" />
+
 
 ## Links
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/enf9WY5pPn)
