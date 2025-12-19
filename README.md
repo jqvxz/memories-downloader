@@ -10,7 +10,7 @@ A simple python program that allows the user to download their snapchat memories
 - Download your data after requesting it
 
 ## Installation 
-Tested on "Python 3.13.1"
+Tested on Python 3.13.1, 3.13.4, 3.13.7
 
 ```cmd
 git clone https://github.com/jqvxz/memories-downloader
